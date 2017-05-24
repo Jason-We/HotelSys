@@ -5,7 +5,6 @@
  */
 package hotel;
 
-import java.awt.event.KeyEvent;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
